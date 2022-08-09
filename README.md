@@ -31,3 +31,5 @@ Thank you to [thedevslot](https://github.com/thedevslot/WhatATheme/) for this us
 ### WhatATheme Credits :bulb:
 * [Sneha Omer](http://sassyecoder.github.io/)
 * [Harsh Trivedi](http://harsh98trivedi.github.io/)
+
+##Finola's comment Aug 2022
